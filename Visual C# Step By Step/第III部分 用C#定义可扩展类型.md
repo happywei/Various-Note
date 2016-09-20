@@ -298,7 +298,10 @@ class MyClass
 
 ---
 
-
+### 13、LINQ(Language Integrated Query)语言集成查询
+- LINQ不用考虑数据的内部的结构。
+- LINQ要求数据用实现了IEnumerable或IEnumerable<T>接口的数据结构进行存储。
+- 
 
 
 
